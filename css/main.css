@@ -15,6 +15,7 @@ ul {
      width: 100%;
      margin: 0 auto;
      padding: 0 12px;
+
 }
 
 /* header start */ 
@@ -40,5 +41,14 @@ ul {
      font-size: 20px;
      text-transform: capitalize;
 }
+
+.header__txt {
+    
+     text-transform: uppercase;
+      min-height: 100vh;
+      display: grid;
+     place-items: center;
+}
+
 
 /* header end */ 
