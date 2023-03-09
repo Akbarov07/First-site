@@ -15,7 +15,6 @@ ul {
      width: 100%;
      margin: 0 auto;
      padding: 0 12px;
-
 }
 
 /* header start */ 
@@ -50,5 +49,12 @@ ul {
      place-items: center;
 }
 
-
+.header {
+     min-height: 100vh;
+       background:dodgerblue;
+       flex-direction: column;
+} 
+.h1 {
+   
+}
 /* header end */ 
